@@ -18,7 +18,7 @@ Prior to joining NEC Laboratories Europe, I graduated with a master’s degree f
 
 
 Temporal Graph Learning Reading Group
----
+
 
 Check out and join our Temporal Graph Reading Group if you're interested. It happens every thursday, 11am EDT (= 5pm CST) on zoom, and authors of cool and recent Temporal Graph Learning Papers are presenting their work.
 
@@ -29,7 +29,7 @@ Organized by Shenyang (Andy) Huang, Farimah Poursafaei, and me.
 
 
 Publications
----
+
 
 For a full list of publications please visit my google scholar
 [Link](https://scholar.google.com/citations?user=UgrQkB4AAAAJ&hl=en&oi=ao)

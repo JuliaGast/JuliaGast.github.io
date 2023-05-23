@@ -68,7 +68,7 @@ yandex_site_verification :
 # Site Author
 author:
   name             : "Julia Gastinger"
-  avatar           : "profile.png"
+  avatar           : "Photo_Julia_Gastinger.jpg"
   bio              : "Research Scientist at Nec Laboratories Europe and PhD Student at University of Mannheim"
   location         : "Heidelberg, Germany"
   employer         : "Nec Laboratories Europe "
@@ -83,20 +83,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JuliaGast"
+  github           : "GastJulia"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+ # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+ # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
