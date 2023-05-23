@@ -1,5 +1,8 @@
 ---
-title: "Temporal Graph Reading Group"
+layout: archive
+title: "Reading Group"
+permalink: /RG/
+author_profile: true
 ---
 
 Check out and join our Temporal Graph Reading Group. It happens every thursday, 11am EDT (= 5pm CST) on zoom, and authors of cool and recent Temporal Graph Learning Papers are presenting their work.
