@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Julia Gastinger"
+title: "Hi, I'm Julia."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Julia.
+
 
 I'm a research scientist at [NEC Laboratories Europe](https://www.neclab.eu/) and a second year Ph.D. student in the [Data and Web Science Group](https://www.uni-mannheim.de/dws/at) University of Mannheim, supervised by Professor Heiner Stuckenschmidt.
 
