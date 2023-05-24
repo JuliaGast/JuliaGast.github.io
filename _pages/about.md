@@ -10,22 +10,17 @@ redirect_from:
 
 
 
-I'm a research scientist at [NEC Laboratories Europe](https://www.neclab.eu/) and a second year Ph.D. student in the [Data and Web Science Group](https://www.uni-mannheim.de/dws/at) University of Mannheim, supervised by Professor Heiner Stuckenschmidt.
+I'm a research scientist at [NEC Laboratories Europe](https://www.neclab.eu/) and a second year Ph.D. student in the [Data and Web Science Group](https://www.uni-mannheim.de/dws) at the University of Mannheim, under the supervision of Professor Heiner Stuckenschmidt.
 
-My research primarily focuses on temporal Knowledge Graphs – Specifically, I'm interested in temporal Knowledge Graph Forecasting and the evaluation of methods in this research field. 
-Prior to joining NEC Laboratories Europe, I graduated with a master’s degree from University of Stuttgart, where I studied Engineering Cybernetics with a focus on Autonomous Systems and Control Theory. 
+My primary research focus revolves around temporal Knowledge Graphs. Specifically, I am intrigued by temporal Knowledge Graph Forecasting and the evaluation of methods in this research domain. Prior to my position at NEC Laboratories Europe, I completed a master's degree in Engineering Cybernetics at the University of Stuttgart, specializing in Autonomous Systems and Control Theory.
 
+Besides research, I like music, food, and boats.
 
 
 ## Temporal Graph Learning Reading Group
 
 
-Check out and join our Temporal Graph Reading Group if you're interested. It happens every thursday, 11am EDT (= 5pm CST) on zoom, and authors of cool and recent Temporal Graph Learning Papers are presenting their work.
-
-
-Organized by Shenyang (Andy) Huang, Farimah Poursafaei, and me.
-[Link](https://www.cs.mcgill.ca/~shuang43/rg.html)
-
+If you share an interest in Temporal Graph Learning, I invite you to check out and join our [Temporal Graph Reading Group](https://www.cs.mcgill.ca/~shuang43/rg.html). We meet every Thursday at 11 am EDT (5 pm CST) on Zoom, where authors of insightful and recent Temporal Graph Learning Papers present their work. The reading group is organized by Shenyang (Andy) Huang, Farimah Poursafaei, and myself.
 
 
 ## Publications

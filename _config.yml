@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Julia Gastinger"
 title_separator          : "-"
 name                     : &name "Julia Gastinger"
-description              : &description "Reesearch Scientist"
+description              : &description "Research Scientist"
 url                      : https://JuliaGast.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "academicpages/JuliaGast.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -68,7 +68,7 @@ yandex_site_verification :
 # Site Author
 author:
   name             : "Julia Gastinger"
-  avatar           : "Photo_Julia_Gastinger.jpg"
+  avatar           : "Foto_terrasse_2.jpg" #"Photo_Julia_Gastinger.jpg"
   bio              : "Research Scientist at Nec Laboratories Europe and PhD Student at University of Mannheim"
   location         : "Heidelberg, Germany"
   employer         : "Nec Laboratories Europe "
@@ -89,8 +89,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
- # orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://de.linkedin.com/in/julia-gastinger-a6ab0b177"
+  orcid            : "http://orcid.org/0000-0003-1914-6723"
   pinterest        :
   soundcloud       :
 #  stackoverflow    : # http://stackoverflow.com/users/123456/username
