@@ -17,6 +17,19 @@ My primary research focus revolves around temporal Knowledge Graphs. Specificall
 Besides research, I like music, food, and boats.
 
 
+## News
+
+Our* Paper Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting was accepted at ECML PKDD 2023.
+
+
+*Julia Gastinger, Timo Sztyler, Lokesh Sharma, Anett Schuelke, Heiner Stuckenschmidt
+
+Please find the paper [here](),
+there code [here](https://github.com/nec-research/TKG-Forecasting-Evaluation),
+and the supplementary material [here](https://github.com/nec-research/TKG-Forecasting-Evaluation/blob/main/paper_supplementary_material.pdf)
+
+
+
 ## Temporal Graph Learning Reading Group
 
 
