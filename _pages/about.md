@@ -19,7 +19,10 @@ Besides research, I like music, food, and boats.
 
 ## News
 
-Our* Paper Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting was accepted at ECML PKDD 2023.
+Our* Paper *Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting* 
+
+was accepted at ECML PKDD 2023.
+
 *Julia Gastinger, Timo Sztyler, Lokesh Sharma, Anett Schuelke, Heiner Stuckenschmidt
 
 Please find the paper [here](https://github.com/JuliaGast/JuliaGast.github.io/blob/master/files/gastinger_evaluation_paper_TKG.pdf),
