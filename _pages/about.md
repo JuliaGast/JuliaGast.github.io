@@ -19,23 +19,23 @@ Besides research, I like music, food, and boats.
 
 ## News
 
-#### History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting at IJCAI 2024
+### History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting at IJCAI 2024
 * Our* Paper *History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting* was accepted at IJCAI 2024.
 *Julia Gastinger, Christian Meilicke, Federico Errica, Timo Sztyler, Anett Schuelke, Heiner Stuckenschmidt
 * We propose a baseline for TKG Foreacsting based on the simple principle of recurrency. Surprisingly, this simple approach beats state of the art methods on 3 out of 5 commonly used datasets!
 * [Paper](https://github.com/nec-research/recurrency_baseline_tkg/blob/master/main.pdf), [Code](https://github.com/nec-research/recurrency_baseline_tkg), [Supplementary Material](https://github.com/nec-research/recurrency_baseline_tkg/blob/master/supplementary_material.pdf)
 
-#### I'm going to Montréal!
+### I'm going to Montréal!
 * In spring 2024 I will do a 2-month research internship at [Mila - Quebec AI Institute](https://mila.quebec/en/) and University of Montréal, supervised by Prof. Guillaume Rabusseau.
 * During the internship I work on benchmarking Temporal Knowledge Graph Forecasting Methods. 
 * Further, I focus on eating as many different Poutines as possible - yeahi.
 
-#### Temporal Graph Learning Workshop @ NeurIPS 2023 
+### Temporal Graph Learning Workshop @ NeurIPS 2023 
 * We* organized the second edition of the Temporal Graph Learning Workshop @ NeurIPS 2023 in New Orleans
 *Farimah Poursafaei, Shenyang Huang, Kellin Pelrine, Emanuele Rossi, Julia Gastinger, Reihaneh Rabbany, Michael Bronstein
 * Find more infos [here](https://sites.google.com/view/tglworkshop-2023/home)
 
-#### Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting at ECML PKDD 2023
+### Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting at ECML PKDD 2023
 * Our* Paper *Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting* 
 was accepted at ECML PKDD 2023.
 *Julia Gastinger, Timo Sztyler, Lokesh Sharma, Anett Schuelke, Heiner Stuckenschmidt
