@@ -19,20 +19,37 @@ Besides research, I like music, food, and boats.
 
 ## News
 
-Our* Paper *Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting* 
+Our* Paper *History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting* 
+was accepted at IJCAI 2024.
 
+*Julia Gastinger, Christian Meilicke, Federico Errica, Timo Sztyler, Anett Schuelke, Heiner Stuckenschmidt
+
+[Paper](https://github.com/nec-research/recurrency_baseline_tkg/blob/master/main.pdf),
+[Code](https://github.com/nec-research/recurrency_baseline_tkg),
+[Supplementary Material](https://github.com/nec-research/recurrency_baseline_tkg/blob/master/supplementary_material.pdf)
+
+
+We* organized the second edition of the Temporal Graph Learning Workshop @ NeurIPS 2023 in New Orleans! 
+Find more infos [here](https://sites.google.com/view/tglworkshop-2023/home)
+
+*Farimah Poursafaei, Shenyang Huang, Kellin Pelrine, Emanuele Rossi, Julia Gastinger, Reihaneh Rabbany, Michael Bronstein
+
+
+
+Our* Paper *Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting* 
 was accepted at ECML PKDD 2023.
 
 *Julia Gastinger, Timo Sztyler, Lokesh Sharma, Anett Schuelke, Heiner Stuckenschmidt
 
-Please find the paper [here](https://github.com/JuliaGast/JuliaGast.github.io/blob/master/files/gastinger_evaluation_paper_TKG.pdf),
-the code [here](https://github.com/nec-research/TKG-Forecasting-Evaluation),
-and the supplementary material [here](https://github.com/nec-research/TKG-Forecasting-Evaluation/blob/main/paper_supplementary_material.pdf)
+[Paper](https://github.com/JuliaGast/JuliaGast.github.io/blob/master/files/gastinger_evaluation_paper_TKG.pdf),
+[Code](https://github.com/nec-research/TKG-Forecasting-Evaluation),
+[Supplementary Material](https://github.com/nec-research/TKG-Forecasting-Evaluation/blob/main/paper_supplementary_material.pdf)
+
+
 
 
 
 ## Temporal Graph Learning Reading Group
-
 
 If you share an interest in Temporal Graph Learning, I invite you to check out and join our [Temporal Graph Reading Group](https://www.cs.mcgill.ca/~shuang43/rg.html). We meet every Thursday at 11 am EDT (5 pm CST) on Zoom, where authors of insightful and recent Temporal Graph Learning Papers present their work. The reading group is organized by Shenyang (Andy) Huang, Farimah Poursafaei, and myself.
 
@@ -40,10 +57,10 @@ If you share an interest in Temporal Graph Learning, I invite you to check out a
 ## Publications
 
 ### Most Recent Publication:
+Julia Gastinger, Christian Meilicke, Federico Errica, Timo Sztyler, Anett Schuelke, Heiner Stuckenschmidt.
+[History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting](https://github.com/nec-research/recurrency_baseline_tkg/blob/master/main.pdf)
+In IJCAI, Jeju, South-Korea, 2024.
 
-Julia Gastinger, Timo Sztyler, Lokesh Sharma, Anett Schuelke, Heiner Stuckenschmidt.
-[Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting.](https://github.com/JuliaGast/JuliaGast.github.io/blob/master/files/gastinger_evaluation_paper_TKG.pdf)
-In ECML PKDD, Torino, Italy, 2023.
 
 ### Google Scholar:
 For a full list of publications please visit my google scholar: [Link](https://scholar.google.com/citations?user=UgrQkB4AAAAJ&hl=en&oi=ao)
