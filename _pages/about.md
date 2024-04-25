@@ -19,8 +19,7 @@ Besides research, I like music, food, and boats.
 
 ## News
 
-Our* Paper *History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting* 
-was accepted at IJCAI 2024.
+### Our* Paper *History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting* was accepted at IJCAI 2024.
 
 *Julia Gastinger, Christian Meilicke, Federico Errica, Timo Sztyler, Anett Schuelke, Heiner Stuckenschmidt
 
@@ -28,15 +27,17 @@ was accepted at IJCAI 2024.
 [Code](https://github.com/nec-research/recurrency_baseline_tkg),
 [Supplementary Material](https://github.com/nec-research/recurrency_baseline_tkg/blob/master/supplementary_material.pdf)
 
+### I'm going to Montréal!
+In spring 2024 I will do a 2-month research internship at [Mila - Quebec AI Institute](https://mila.quebec/en/) and University of Montréal, supervised by Prof. Guillaume Rabusseau.
+During the internship I work on benchmarking Temporal Knowledge Graph Forecasting Methods. 
+Further, I focus on eating as many different Poutines as possible - yeahi.
 
-We* organized the second edition of the Temporal Graph Learning Workshop @ NeurIPS 2023 in New Orleans! 
+### We* organized the second edition of the Temporal Graph Learning Workshop @ NeurIPS 2023 in New Orleans! 
 Find more infos [here](https://sites.google.com/view/tglworkshop-2023/home)
 
 *Farimah Poursafaei, Shenyang Huang, Kellin Pelrine, Emanuele Rossi, Julia Gastinger, Reihaneh Rabbany, Michael Bronstein
 
-
-
-Our* Paper *Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting* 
+### Our* Paper *Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting* 
 was accepted at ECML PKDD 2023.
 
 *Julia Gastinger, Timo Sztyler, Lokesh Sharma, Anett Schuelke, Heiner Stuckenschmidt
