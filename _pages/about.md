@@ -9,15 +9,24 @@ redirect_from:
 ---
 
 
+I'm a third year Ph.D. student in the [Data and Web Science Group](https://www.uni-mannheim.de/dws) at the University of Mannheim, under the supervision of Professor Heiner Stuckenschmidt. Previously, I was a research scientist at [NEC Laboratories Europe](https://www.neclab.eu/). 
 
-I'm a research scientist at [NEC Laboratories Europe](https://www.neclab.eu/) and a second year Ph.D. student in the [Data and Web Science Group](https://www.uni-mannheim.de/dws) at the University of Mannheim, under the supervision of Professor Heiner Stuckenschmidt.
-
-My primary research focus revolves around temporal Knowledge Graphs. Specifically, I am intrigued by temporal Knowledge Graph Forecasting and the evaluation of methods in this research domain. Prior to my position at NEC Laboratories Europe, I completed a master's degree in Engineering Cybernetics at the University of Stuttgart, specializing in Autonomous Systems and Control Theory.
+My primary research focus revolves around temporal Knowledge Graphs. Specifically, I am intrigued by temporal Knowledge Graph Forecasting and the evaluation of methods in this research domain. 
 
 Besides research, I like music, food, and boats.
 
 
 ## News
+
+### Check out TGB 2.0: A benchmark for learning on Temporal Knowledge Graphs and Heterogeneous Graphs
+* [TGB 2.0](https://tgb.complexdatalab.com/) extends the Temporal Graph Benchmark (TGB) to multi-relational graphs, offering a collection of challenging and diverse datasets for Temporal Heterogeneous Graphs and Temporal Knowledge Graphs. 
+* Our goal is to provide a realistic, reproducible, and robust evaluation platform for machine learning on temporal multi-relational graphs.
+* Explore more: 
+    * Read our [paper](https://arxiv.org/abs/2406.09639v1) (preprint)
+    * Visit our [website](https://tgb.complexdatalab.com/)
+    * Check out our [GitHub](https://github.com/shenyangHuang/TGB)
+* TGB 2.0 team 🙌 : Shenyang Huang*, Julia Gastinger*, Michael Galkin, Erfan Loghmani,
+Ali Parviz, Farimah Poursafaei, Jacob Danovitch, Emanuele Rossi, Yiannis Koutis, Heiner Stuckenschmidt, Reihaneh Rabbany, Guillaume Rabusseau  (*equal contribution)
 
 ### History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting at IJCAI 2024
 * Our* Paper *History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting* was accepted at IJCAI 2024.
@@ -25,10 +34,10 @@ Besides research, I like music, food, and boats.
 * We propose a baseline for TKG Foreacsting based on the simple principle of recurrency. Surprisingly, this simple approach beats state of the art methods on 3 out of 5 commonly used datasets!
 * [Paper](https://github.com/nec-research/recurrency_baseline_tkg/blob/master/main.pdf), [Code](https://github.com/nec-research/recurrency_baseline_tkg), [Supplementary Material](https://github.com/nec-research/recurrency_baseline_tkg/blob/master/supplementary_material.pdf)
 
-### I'm going to Montréal!
-* In spring 2024 I will do a 2-month research internship at [Mila - Quebec AI Institute](https://mila.quebec/en/) and University of Montréal, supervised by Prof. Guillaume Rabusseau.
-* During the internship I work on benchmarking Temporal Knowledge Graph Forecasting Methods. 
-* Further, I focus on eating as many different Poutines as possible - yeahi.
+### Internship in Montréal
+* In spring 2024, I did a 2-month research internship at [Mila - Quebec AI Institute](https://mila.quebec/en/) and University of Montréal, supervised by Prof. Guillaume Rabusseau.
+* During the internship I worked on benchmarking Temporal Knowledge Graph Forecasting Methods. 
+* Further, I focused on eating as many different Poutines as possible - yeahi.
 
 ### Temporal Graph Learning Workshop @ NeurIPS 2023 
 * We* organized the second edition of the Temporal Graph Learning Workshop @ NeurIPS 2023 in New Orleans
@@ -48,7 +57,7 @@ was accepted at ECML PKDD 2023.
 
 ## Temporal Graph Learning Reading Group
 
-If you share an interest in Temporal Graph Learning, I invite you to check out and join our [Temporal Graph Reading Group](https://www.cs.mcgill.ca/~shuang43/rg.html). We meet every Thursday at 11 am EDT (5 pm CST) on Zoom, where authors of insightful and recent Temporal Graph Learning Papers present their work. The reading group is organized by Shenyang (Andy) Huang, Farimah Poursafaei, and myself.
+If you share an interest in Temporal Graph Learning, I invite you to check out and join our [Temporal Graph Reading Group](https://shenyanghuang.github.io/rg.html). We meet every Thursday at 11 am EDT (5 pm CST) on Zoom, where authors of insightful and recent Temporal Graph Learning Papers present their work. The reading group is organized by Shenyang (Andy) Huang, Farimah Poursafaei, and myself.
 
 
 ## Publications
