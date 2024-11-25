@@ -18,6 +18,13 @@ Besides research, I like music, food, and boats.
 
 ## News
 
+###  ![alt text](image.png) Dynamic Representations of Global Crises: A Temporal Knowledge Graph For Conflicts, Trade and Value Networks @ LOG 2024 
+* Our Paper *Dynamic Representations of Global Crises: A Temporal Knowledge Graph For Conflicts, Trade and Value Networks* was accepted at the Learning on Graphs Conference 2024.
+* We create and analyze a Temporal Knowledge Graph (TKG) containing data on worldwide crises and trade over time, and apply TKG forecasting methods to it.
+* [Paper](https://openreview.net/forum?id=LipaBQwFeZ), [Code](https://github.com/JuliaGast/GTA_ACLED_TKG/tree/main), [Poster](https://openreview.net/attachment?id=LipaBQwFeZ&name=poster)
+* Team: Julia Gastinger, Timo Sztyler, Nils Steinert, Sabine Gruender-Fahrer, Michael Martin, Anett Schuelke, Heiner Stuckenschmidt
+
+
 ### ![alt text](image-1.png) TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs @ NeurIPS 2024
 ![alt text](image-17.png)
 * Our Paper was accepted at the NeurIPS Datasets and Benchmarks Track 
@@ -68,6 +75,8 @@ If you share an interest in Temporal Graph Learning, I invite you to check out a
 ## Publications
 
 ### Most Recent Publications:
+Julia Gastinger, Timo Sztyler, Nils Steinert, Sabine Gruender-Fahrer, Michael Martin, Anett Schuelke, Heiner Stuckenschmidt [Dynamic Representations of Global Crises: A Temporal Knowledge Graph For Conflicts, Trade and Value Networks](https://openreview.net/forum?id=LipaBQwFeZ). In Learning on Graphs Conference (LoG), Virtual Event, 2024.
+
 Shenyang Huang*, Julia Gastinger*, Michael Galkin, Erfan Loghmani,
 Ali Parviz, Farimah Poursafaei, Jacob Danovitch, Emanuele Rossi, Yiannis Koutis, Heiner Stuckenschmidt, Reihaneh Rabbany, Guillaume Rabusseau  (*equal contribution) [TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs @ NeurIPS 2024](https://arxiv.org/abs/2406.09639). In NeurIPS Datasets and Benchmarks Track, Vancouver, Canada, 2024.
 
