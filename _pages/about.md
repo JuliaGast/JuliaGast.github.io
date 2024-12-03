@@ -18,6 +18,10 @@ Besides research, I like music, food, and boats.
 
 ## News
 
+###  ![alt text](image.png) Top Reviewer Award @ LOG 2024 
+* I'm honored to be recognized as one of the top reviewers at the [Learning on Graphs Conference 2024](https://logconference.org/).
+* Huge thanks to the organizers for putting together such an awesome event.
+
 ###  ![alt text](image.png) Dynamic Representations of Global Crises: A Temporal Knowledge Graph For Conflicts, Trade and Value Networks @ LOG 2024 
 * Our Paper *Dynamic Representations of Global Crises: A Temporal Knowledge Graph For Conflicts, Trade and Value Networks* was accepted at the Learning on Graphs Conference 2024.
 * We create and analyze a Temporal Knowledge Graph (TKG) containing data on worldwide crises and trade over time, and apply TKG forecasting methods to it.
