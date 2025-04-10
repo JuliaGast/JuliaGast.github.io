@@ -18,6 +18,11 @@ Besides research, I like music, food, and boats.
 
 ## News
 
+### ![alt text](image.png) Temporal Graph Learning Workshop @ KDD 2025
+* The third edition of our [Temporal Graph Learning workshop](https://sites.google.com/view/tgl-workshop-2025/) will happen at KDD 2025 -yeah!
+* Team: Farimah Poursafaei, Shenyang Huang, Julia Gastinger, Daniele Zambon, Andrea Cini, Jacob Chmura, Reihaneh Rabbany, Michael Bronstein
+
+
 ###  ![alt text](image.png) Top Reviewer Award @ LOG 2024 
 * I'm honored to be recognized as one of the top reviewers at the [Learning on Graphs Conference 2024](https://logconference.org/).
 * Huge thanks to the organizers for putting together such an awesome event.
@@ -55,9 +60,8 @@ Ali Parviz, Farimah Poursafaei, Jacob Danovitch, Emanuele Rossi, Yiannis Koutis,
 * Further, I focused on eating as many different Poutines as possible - yeahi.
 
 ###  ![alt text](image.png)  Temporal Graph Learning Workshop @ NeurIPS 2023 
-* We organized the second edition of the Temporal Graph Learning Workshop @ NeurIPS 2023 in New Orleans
+* We organized the second edition of the [Temporal Graph Learning Workshop](https://sites.google.com/view/tglworkshop-2023/home) @ NeurIPS 2023 in New Orleans
 * Team: Farimah Poursafaei, Shenyang Huang, Kellin Pelrine, Emanuele Rossi, Julia Gastinger, Reihaneh Rabbany, Michael Bronstein
-* Find more infos [here](https://sites.google.com/view/tglworkshop-2023/home)
 
 ### ![alt text](image-10.png)![alt text](image-9.png) Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting @ ECML PKDD 2023 
 * Our Paper *Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting* 
