@@ -34,8 +34,7 @@ Besides research, I like music, food, and boats.
 * Team: Julia Gastinger, Timo Sztyler, Nils Steinert, Sabine Gruender-Fahrer, Michael Martin, Anett Schuelke, Heiner Stuckenschmidt
 
 
-### ![alt text](image-1.png) TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs @ NeurIPS 2024
-![alt text](image-17.png)
+### ![alt text](image-17.png) TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs @ NeurIPS 2024
 * Our Paper was accepted at the NeurIPS Datasets and Benchmarks Track 
 * [TGB 2.0](https://tgb.complexdatalab.com/) extends the Temporal Graph Benchmark (TGB) to multi-relational graphs, offering a collection of challenging and diverse datasets for Temporal Heterogeneous Graphs and Temporal Knowledge Graphs. 
 * Our goal is to provide a realistic, reproducible, and robust evaluation platform for machine learning on temporal multi-relational graphs.
@@ -45,8 +44,7 @@ Besides research, I like music, food, and boats.
     * Check out our [GitHub](https://github.com/shenyangHuang/TGB)
 * TGB 2.0 team 🙌 : Julia Gastinger^, Shenyang Huang^,  Michael Galkin, Erfan Loghmani,
 Ali Parviz, Farimah Poursafaei, Jacob Danovitch, Emanuele Rossi, Yiannis Koutis, Heiner Stuckenschmidt, Reihaneh Rabbany, Guillaume Rabusseau  (^equal contribution)
-
-                                 
+                                
 
 ###  ![alt text](image.png) History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting @ IJCAI 2024 
 * Our Paper *History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting* was accepted at IJCAI 2024.
@@ -69,8 +67,6 @@ was accepted at ECML PKDD 2023.
 * Authors: Julia Gastinger, Timo Sztyler, Lokesh Sharma, Anett Schuelke, Heiner Stuckenschmidt
 * In this work we focus on the evaluation of TKG Forecasting models: we highlight existing issues, propose a unified evaluation protocol, and apply it to re-evaluate state-of-the-art models.
 * [Paper](https://github.com/JuliaGast/JuliaGast.github.io/blob/master/files/gastinger_evaluation_paper_TKG.pdf), [Code](https://github.com/nec-research/TKG-Forecasting-Evaluation), [Supplementary Material](https://github.com/nec-research/TKG-Forecasting-Evaluation/blob/main/paper_supplementary_material.pdf)
-
-
 
 ![alt text](image-8.png)
 
