@@ -23,7 +23,7 @@ Besides research, I like music, food, and boats.
 * The satellite brings together researchers from diverse fields to explore how networks change, adapt, and respond to internal and external forces. 
 
 ### 👩🏽‍🔬 Girls' Day 2026 at University of Mannheim
-* Girls' Day is a annual career day in Germany where girls visit universities and companies to explore STEM fields. T
+* Girls' Day is a annual career day in Germany where girls visit universities and companies to explore STEM fields. 
 * Together with colleagues, I organized a hands-on session at the University of Mannheim introducing high-school students to how recommendation algorithms behind platforms like TikTok work, and their societal implications, from filter bubbles to manipulation.
 * Find the materials (German) on [GitHub](https://github.com/JuliaGast/girlsday25_tiktok)
 
