@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a third year Ph.D. student in the [Data and Web Science Group](https://www.uni-mannheim.de/dws) at the University of Mannheim, under the supervision of Professor Heiner Stuckenschmidt. Previously, I was a research scientist at [NEC Laboratories Europe](https://www.neclab.eu/). 
+I'm a final year Ph.D. student in the [Data and Web Science Group](https://www.uni-mannheim.de/dws) at the University of Mannheim, under the supervision of Professor Heiner Stuckenschmidt. Previously, I was a research scientist at [NEC Laboratories Europe](https://www.neclab.eu/). 
 
 My primary research focus revolves around temporal Knowledge Graphs. Specifically, I am intrigued by temporal Knowledge Graph Forecasting and the evaluation of methods in this research domain. 
 
@@ -18,10 +18,18 @@ Besides research, I like music, food, and boats.
 
 ## News
 
-### ![alt text](image.png) Temporal Graph Learning Workshop @ KDD 2025
-* The third edition of our [Temporal Graph Learning workshop](https://sites.google.com/view/tgl-workshop-2025/) will happen at KDD 2025 - yeah!
-* Team: Farimah Poursafaei, Shenyang Huang, Julia Gastinger, Daniele Zambon, Andrea Cini, Jacob Chmura, Reihaneh Rabbany, Michael Bronstein
+### 🛰️ TENET Satellite @ NetSci 2026
+* At [TENET](https://tenet-satellite.github.io/website.github.io) (TEmporal NETworks), we invite contributions that advance temporal network theory, methods, and applications. 
+* The satellite brings together researchers from diverse fields to explore how networks change, adapt, and respond to internal and external forces. 
 
+### 👩🏽‍🔬 Girls' Day 2026 at University of Mannheim
+* Girls' Day is a annual career day in Germany where girls visit universities and companies to explore STEM fields. T
+* Together with colleagues, I organized a hands-on session at the University of Mannheim introducing high-school students to how recommendation algorithms behind platforms like TikTok work, and their societal implications, from filter bubbles to manipulation.
+* Find the materials (German) on [GitHub](https://github.com/JuliaGast/girlsday25_tiktok)
+
+### ![alt text](image.png) Temporal Graph Learning Workshop @ KDD 2025
+* The third edition of our [Temporal Graph Learning workshop](https://sites.google.com/view/tgl-workshop-2025/) happened at KDD 2025 - yeah!
+* Team: Farimah Poursafaei, Shenyang Huang, Julia Gastinger, Daniele Zambon, Andrea Cini, Jacob Chmura, Reihaneh Rabbany, Michael Bronstein
 
 ###  ![alt text](image.png) Top Reviewer Award @ LOG 2024 
 * I'm honored to be recognized as one of the top reviewers at the [Learning on Graphs Conference 2024](https://logconference.org/).
@@ -79,6 +87,8 @@ If you share an interest in Temporal Graph Learning, I invite you to check out a
 ## Publications
 
 ### Most Recent Publications:
+Julia Gastinger, Christian Meilicke, Heiner Stuckenschmidt [CountTRuCoLa: Rule Confidence Learning for Temporal Knowledge Graph Forecasting](https://arxiv.org/abs/2509.09474). arxiv preprint, 2025.
+
 Julia Gastinger, Timo Sztyler, Nils Steinert, Sabine Gruender-Fahrer, Michael Martin, Anett Schuelke, Heiner Stuckenschmidt [Dynamic Representations of Global Crises: A Temporal Knowledge Graph For Conflicts, Trade and Value Networks](https://openreview.net/forum?id=LipaBQwFeZ). In Learning on Graphs Conference (LoG), Virtual Event, 2024.
 
 Julia Gastinger^, Shenyang Huang^, Michael Galkin, Erfan Loghmani,
