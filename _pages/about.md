@@ -18,6 +18,29 @@ Besides research, I like music, food, and boats.
 
 ## News
 
+### 🧛‍♂️ CountTRuCoLa @ ISWC 2026 
+* Our paper *CountTRuCoLa: Rule Learning for Interpretable Temporal Knowledge Graph Forecasting* was accepted at The 25th International Semantic Web Conference
+![alt text](image-18.png)
+* We address the task of temporal knowledge graph forecasting by introducing a fully interpretable method based on symbolic rules. 
+* Our approach learns four simple rule types, including temporal rules with confidence functions that combine both recency and frequency.
+* Evaluated on nine datasets, our method achieves performance that is competitive with state-of-the-art models and outperforms the majority of them, while providing fully interpretable predictions. 
+* [Paper](https://arxiv.org/abs/2509.09474), [Code](https://github.com/JuliaGast/counttrucola)
+* Moreover, our approach remains functional on very large datasets, where other methods encounter runtime or memory failures.
+* Team: Julia Gastinger, Christian Meilicke, Heiner Stuckenschmidt
+
+### 🔬 Temporal Knowledge Graph Forecasting under Distribution Shifts: A Synthetic Evaluation @ 23rd International Workshop on Mining and Learning with Graphs (ECML PKDD) 2026
+* Our paper was accepted at the International Workshop on Mining and Learning with Graphs (ECML PKDD)
+* In this paper, we study TKG forecasting under controlled shift environments using a synthetic TKG generator that encodes three temporal and structural properties -- recurrence, homophily, and periodicity -- as data-generating mechanisms. 
+* This allows us to evaluate seven forecasting architectures under stationary and shifting regimes. 
+* Our experiments suggest that robustness in TKG forecasting is highly signal-dependent
+* [Paper](https://arxiv.org/abs/2607.09232), [Code](https://github.com/konradoezdemir/shifting-tkg)
+* Shout out to Konrad for leading this project. 
+* Team: Konrad Özdemir, Julia Gastinger, Lukas Kirchdorfer, Heiner Stuckenschmidt
+
+
+
+### 
+
 ### 🛰️ TENET Satellite @ NetSci 2026
 * At [TENET](https://tenet-satellite.github.io/website.github.io) (TEmporal NETworks), we invite contributions that advance temporal network theory, methods, and applications. 
 * The satellite brings together researchers from diverse fields to explore how networks change, adapt, and respond to internal and external forces. 
