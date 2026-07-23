@@ -27,6 +27,7 @@ Besides research, I like music, food, and boats.
 * [Paper](https://arxiv.org/abs/2509.09474), [Code](https://github.com/JuliaGast/counttrucola)
 * Moreover, our approach remains functional on very large datasets, where other methods encounter runtime or memory failures.
 * Team: Julia Gastinger, Christian Meilicke, Heiner Stuckenschmidt
+* Shout out to [Ulla Menzenbach](https://www.instagram.com/frankies.onion) for illustrating our CountTRuCoLa 
 
 ### 🔬 Temporal Knowledge Graph Forecasting under Distribution Shifts: A Synthetic Evaluation @ 23rd International Workshop on Mining and Learning with Graphs (ECML PKDD) 2026
 * Our paper was accepted at the International Workshop on Mining and Learning with Graphs (ECML PKDD)
