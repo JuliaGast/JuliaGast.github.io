@@ -33,14 +33,11 @@ Besides research, I like music, food, and boats.
 * Our paper was accepted at the International Workshop on Mining and Learning with Graphs (ECML PKDD)
 * In this paper, we study TKG forecasting under controlled shift environments using a synthetic TKG generator that encodes three temporal and structural properties -- recurrence, homophily, and periodicity -- as data-generating mechanisms. 
 * This allows us to evaluate seven forecasting architectures under stationary and shifting regimes. 
-* Our experiments suggest that robustness in TKG forecasting is highly signal-dependent
 * [Paper](https://arxiv.org/abs/2607.09232), [Code](https://github.com/konradoezdemir/shifting-tkg)
 * Shout out to Konrad for leading this project. 
 * Team: Konrad Özdemir, Julia Gastinger, Lukas Kirchdorfer, Heiner Stuckenschmidt
 
 
-
-### 
 
 ### 🛰️ TENET Satellite @ NetSci 2026
 * At [TENET](https://tenet-satellite.github.io/website.github.io) (TEmporal NETworks), we invite contributions that advance temporal network theory, methods, and applications. 
