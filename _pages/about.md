@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a final year Ph.D. student in the [Data and Web Science Group](https://www.uni-mannheim.de/dws) at the University of Mannheim, under the supervision of Professor Heiner Stuckenschmidt. Previously, I was a research scientist at [NEC Laboratories Europe](https://www.neclab.eu/). 
 
-My primary research focus revolves around temporal Knowledge Graphs. Specifically, I am intrigued by temporal knowledge graph Forecasting and the evaluation of methods in this research domain. 
+My primary research focus revolves around temporal Knowledge Graphs. Specifically, I am intrigued by temporal knowledge graph forecasting and the evaluation of methods in this research domain. 
 
 Besides research, I like music, food, and boats.
 
@@ -90,7 +90,7 @@ Besides research, I like music, food, and boats.
 Can we forecast trade sanctions? Our LoG paper builds a temporal knowledge graph that links worldwide conflict events (ACLED) with trade policy interventions (Global Trade Alert), and applies TKG forecasting methods to it.
 * [Paper](https://openreview.net/forum?id=LipaBQwFeZ), [Code](https://github.com/JuliaGast/GTA_ACLED_TKG/tree/main), [Poster](https://openreview.net/attachment?id=LipaBQwFeZ&name=poster)
 <details markdown="1">
-<summary>more</summary>
+<summary>More Infos</summary>
 
 * Full title: *Dynamic Representations of Global Crises: A Temporal Knowledge Graph For Conflicts, Trade and Value Networks*, accepted at the Learning on Graphs Conference 2024.
 * The TKG has daily snapshots for 2023, with countries, economic sectors and conflict actors connected by 19 relation types.
@@ -100,25 +100,31 @@ Can we forecast trade sanctions? Our LoG paper builds a temporal knowledge graph
 
 
 
-### ![alt text](image.png) TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs @ NeurIPS 2024
-* Our Paper was accepted at the NeurIPS Datasets and Benchmarks Track.
-* [TGB 2.0](https://tgb.complexdatalab.com/) extends the Temporal Graph Benchmark (TGB) to multi-relational graphs, offering a collection of challenging and diverse datasets for temporal heterogeneous graphs and temporal knowledge graphs. 
+### ![alt text](image.png) TGB 2.0 @ NeurIPS 2024
+* [TGB 2.0](https://tgb.complexdatalab.com/) extends the Temporal Graph Benchmark to multi-relational graphs, with large and diverse datasets for temporal knowledge graphs and temporal heterogeneous graphs (NeurIPS Datasets and Benchmarks Track).
 * [Paper](https://arxiv.org/abs/2406.09639), [Website](https://tgb.complexdatalab.com/), [Code](https://github.com/shenyangHuang/TGB)
 <details markdown="1">
 <summary>More Infos</summary>
 
-
 * Our goal is to provide a realistic, reproducible, and robust evaluation platform for machine learning on temporal multi-relational graphs.
+* Key findings: relation information is needed for high performance, simple heuristic baselines are often competitive with complex methods, and most methods fail to run on our largest datasets.
+* Team 🙌: Julia Gastinger^, Shenyang Huang^, Michael Galkin, Erfan Loghmani, Ali Parviz, Farimah Poursafaei, Jacob Danovitch, Emanuele Rossi, Yiannis Koutis, Heiner Stuckenschmidt, Reihaneh Rabbany, Guillaume Rabusseau (^equal contribution)
+</details>
 
-* TGB 2.0 team 🙌 : Julia Gastinger^, Shenyang Huang^,  Michael Galkin, Erfan Loghmani,
-Ali Parviz, Farimah Poursafaei, Jacob Danovitch, Emanuele Rossi, Yiannis Koutis, Heiner Stuckenschmidt, Reihaneh Rabbany, Guillaume Rabusseau  (^equal contribution) 
-</details>                            
 
-###  ![alt text](image.png) History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting @ IJCAI 2024 
-* Our Paper *History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting* was accepted at IJCAI 2024.
-* We propose a baseline for TKG Foreacsting based on the simple principle of recurrency. Surprisingly, this simple approach beats state of the art methods on 3 out of 5 commonly used datasets!
-* [Paper](https://github.com/nec-research/recurrency_baseline_tkg/blob/master/main.pdf), [Code](https://github.com/nec-research/recurrency_baseline_tkg), [Supplementary Material](https://github.com/nec-research/recurrency_baseline_tkg/blob/master/supplementary_material.pdf)
+### ![alt text](image.png) A Baseline for TKG Forecasting @ IJCAI 2024
+* How far do you get by just assuming history repeats itself? Pretty far: our IJCAI paper proposes a simple recurrency-based baseline for TKG forecasting that beats state-of-the-art methods on 3 out of 5 commonly used datasets.
+* [Paper](https://www.ijcai.org/proceedings/2024/444), [Code](https://github.com/nec-research/recurrency_baseline_tkg), [Supplementary Material](https://github.com/nec-research/recurrency_baseline_tkg/blob/master/supplementary_material.pdf)
+<details markdown="1">
+<summary>more</summary>
+
+* Full title: *History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting*
+* The baseline predicts future facts from how often and how recently they occurred in the past. It is fast, simple, and fully interpretable.
+* It gives a sanity check for new TKG forecasting methods: complex models should at least beat it.
 * Team: Julia Gastinger, Christian Meilicke, Federico Errica, Timo Sztyler, Anett Schuelke, Heiner Stuckenschmidt
+</details>          
+
+
 
 ### ![alt text](image-13.png) Internship in Montréal! 
 * In spring 2024, I did a 2-month research internship at [Mila - Quebec AI Institute](https://mila.quebec/en/) and University of Montréal, supervised by Prof. Guillaume Rabusseau.
@@ -129,20 +135,28 @@ Ali Parviz, Farimah Poursafaei, Jacob Danovitch, Emanuele Rossi, Yiannis Koutis,
 * We organized the second edition of the [Temporal Graph Learning Workshop](https://sites.google.com/view/tglworkshop-2023/home) @ NeurIPS 2023 in New Orleans
 * Team: Farimah Poursafaei, Shenyang Huang, Kellin Pelrine, Emanuele Rossi, Julia Gastinger, Reihaneh Rabbany, Michael Bronstein
 
-### ![alt text](image-10.png)![alt text](image-9.png) Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting @ ECML PKDD 2023 
-* Our Paper *Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting* 
-was accepted at ECML PKDD 2023.
-* Authors: Julia Gastinger, Timo Sztyler, Lokesh Sharma, Anett Schuelke, Heiner Stuckenschmidt
-* In this work we focus on the evaluation of TKG Forecasting models: we highlight existing issues, propose a unified evaluation protocol, and apply it to re-evaluate state-of-the-art models.
+### ![alt text](image-10.png)![alt text](image-9.png) Comparing Apples and Oranges? @ ECML PKDD 2023
+* Evaluation settings matter: TKG forecasting papers use inconsistent evaluation protocols, which makes their reported results hard to compare. Our ECML PKDD paper uncovers these inconsistencies and re-evaluates existing methods under one unified protocol.
 * [Paper](https://github.com/JuliaGast/JuliaGast.github.io/blob/master/files/gastinger_evaluation_paper_TKG.pdf), [Code](https://github.com/nec-research/TKG-Forecasting-Evaluation), [Supplementary Material](https://github.com/nec-research/TKG-Forecasting-Evaluation/blob/main/paper_supplementary_material.pdf)
+<details markdown="1">
+<summary>More Infos</summary>
 
-![alt text](image-8.png)
+* Full title: *Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting*
+* In this work we focus on the evaluation of TKG Forecasting models: we highlight existing issues, propose a unified evaluation protocol, and apply it to re-evaluate state-of-the-art models.
+* Under a consistent evaluation, results and rankings of methods can change compared to what was originally reported.
+* Team: Julia Gastinger, Timo Sztyler, Lokesh Sharma, Anett Schuelke, Heiner Stuckenschmidt
+</details>
+
 
 ## Temporal Graph Learning Reading Group
 
-If you share an interest in Temporal Graph Learning, I invite you to check out and join our [Temporal Graph Reading Group](https://shenyanghuang.github.io/rg.html). We meet every Wednesday at 9 am EDT (3 pm CST) on Zoom, where authors of insightful and recent Temporal Graph Learning Papers present their work. The reading group is organized by Shenyang (Andy) Huang, Emma Kondrup, Farimah Poursafaei, and myself.
+If you share an interest in Temporal Graph Learning, I invite you to check out and join our [Temporal Graph Reading Group](https://shenyanghuang.github.io/rg.html).
+<details markdown="1">
+<summary>More Infos</summary>
+ We meet every Wednesday at 9 am EDT (3 pm CST) on Zoom, where authors of insightful and recent Temporal Graph Learning Papers present their work. The reading group is organized by Shenyang (Andy) Huang, Emma Kondrup, Farimah Poursafaei, and myself.
 
 ![alt text](image-16.png)
+</details>
 
 ## Publications
 
