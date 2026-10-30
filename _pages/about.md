@@ -38,7 +38,8 @@ Besides research, I like music, food, and boats.
 * Our paper *CountTRuCoLa: Rule Learning for Interpretable Temporal Knowledge Graph Forecasting* was accepted at The 25th International Semantic Web Conference
 * We show that a lightweight, interpretable model can achieve predictive accuracy competitive with, and in some cases surpassing, more complex neural models while maintaining scalability.
 * [Paper](https://arxiv.org/abs/2509.09474), [Code](https://github.com/JuliaGast/counttrucola)
-![alt text](image-18.png)
+
+![CountTRuCoLa illustration](image-18.png)
 <details markdown="1">
 <summary>More Infos</summary>
 
