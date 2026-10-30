@@ -11,32 +11,57 @@ redirect_from:
 
 I'm a final year Ph.D. student in the [Data and Web Science Group](https://www.uni-mannheim.de/dws) at the University of Mannheim, under the supervision of Professor Heiner Stuckenschmidt. Previously, I was a research scientist at [NEC Laboratories Europe](https://www.neclab.eu/). 
 
-My primary research focus revolves around temporal Knowledge Graphs. Specifically, I am intrigued by temporal Knowledge Graph Forecasting and the evaluation of methods in this research domain. 
+My primary research focus revolves around temporal Knowledge Graphs. Specifically, I am intrigued by temporal knowledge graph Forecasting and the evaluation of methods in this research domain. 
 
 Besides research, I like music, food, and boats.
 
 
 ## News
 
+### 🎸 Festival Lineup Forecasting @ AKBC 2026
+* Our paper *A temporal knowledge graph for Music Festival Lineup Forecasting* was accepted at the 11th Workshop on Automated Knowledge Base Construction (AKBC 2026) in Budapest. 
+* Who will play at next year's festival? Music festival lineups emerge from complex relationships among artists, genres, releases, labels, and past performances, which makes them a natural fit for TKG forecasting.
+* [Paper](https://aclanthology.org/2026.akbc-1.4/), [Poster](https://www.akbc.ws/2026/presentations/posters/poster_Julia_Gastinger.pdf), [Code](https://github.com/JuliaGast/festival-lineup-tkg)
+<details markdown="1">
+<summary>More Infos</summary>
+
+* We build a TKG covering 380 festivals over 55 years, with more than 90K festival performance quadruples, plus data on festivals, artist tours and artist metadata.
+* We frame lineup prediction as temporal link prediction between artists and festivals. We evaluate six TKG forecasting models and compare them with zero-shot LLMs.
+* This complements existing TKG benchmarks by grounding evaluation in a concrete, real-world application domain.
+* Team: Julia Gastinger, Thilo Dieing, Christian Meilicke, Heiner Stuckenschmidt
+
+</details>
+
+
+
 ### 🧛‍♂️ CountTRuCoLa @ ISWC 2026 
 * Our paper *CountTRuCoLa: Rule Learning for Interpretable Temporal Knowledge Graph Forecasting* was accepted at The 25th International Semantic Web Conference
+* We show that a lightweight, interpretable model can achieve predictive accuracy competitive with, and in some cases surpassing, more complex neural models while maintaining scalability.
+* [Paper](https://arxiv.org/abs/2509.09474), [Code](https://github.com/JuliaGast/counttrucola)
 ![alt text](image-18.png)
+<details markdown="1">
+<summary>More Infos</summary>
+
 * We address the task of temporal knowledge graph forecasting by introducing a fully interpretable method based on symbolic rules. 
 * Our approach learns four simple rule types, including temporal rules with confidence functions that combine both recency and frequency.
 * Evaluated on nine datasets, our method achieves performance that is competitive with state-of-the-art models and outperforms the majority of them, while providing fully interpretable predictions. 
-* [Paper](https://arxiv.org/abs/2509.09474), [Code](https://github.com/JuliaGast/counttrucola)
 * Moreover, our approach remains functional on very large datasets, where other methods encounter runtime or memory failures.
 * Team: Julia Gastinger, Christian Meilicke, Heiner Stuckenschmidt
 * Shout out to [Ulla Menzenbach](https://www.instagram.com/frankies.onion) for illustrating our CountTRuCoLa 
+</details>
 
 ### 🔬 Temporal Knowledge Graph Forecasting under Distribution Shifts: A Synthetic Evaluation @ 23rd International Workshop on Mining and Learning with Graphs (ECML PKDD) 2026
 * Our paper was accepted at the International Workshop on Mining and Learning with Graphs (ECML PKDD)
-* In this paper, we study TKG forecasting under controlled shift environments using a synthetic TKG generator that encodes three temporal and structural properties -- recurrence, homophily, and periodicity -- as data-generating mechanisms. 
-* This allows us to evaluate seven forecasting architectures under stationary and shifting regimes. 
 * [Paper](https://arxiv.org/abs/2607.09232), [Code](https://github.com/konradoezdemir/shifting-tkg)
 * Shout out to Konrad for leading this project. 
-* Team: Konrad Özdemir, Julia Gastinger, Lukas Kirchdorfer, Heiner Stuckenschmidt
+<details markdown="1">
+<summary>More Infos</summary>
 
+* In this paper, we study TKG forecasting under controlled shift environments using a synthetic TKG generator that encodes three temporal and structural properties -- recurrence, homophily, and periodicity -- as data-generating mechanisms. 
+* This allows us to evaluate seven forecasting architectures under stationary and shifting regimes. 
+
+* Team: Konrad Özdemir, Julia Gastinger, Lukas Kirchdorfer, Heiner Stuckenschmidt
+</details>
 
 
 ### 🛰️ TENET Satellite @ NetSci 2026
@@ -45,8 +70,13 @@ Besides research, I like music, food, and boats.
 
 ### 👩🏽‍🔬 Girls' Day 2026 at University of Mannheim
 * Girls' Day is a annual career day in Germany where girls visit universities and companies to explore STEM fields. 
-* Together with colleagues, I organized a hands-on session at the University of Mannheim introducing high-school students to how recommendation algorithms behind platforms like TikTok work, and their societal implications, from filter bubbles to manipulation.
+<details markdown="1">
+<summary>More Infos</summary>
+
+
 * Find the materials (German) on [GitHub](https://github.com/JuliaGast/girlsday25_tiktok)
+* Together with colleagues, I organized a hands-on session at the University of Mannheim introducing high-school students to how recommendation algorithms behind platforms like TikTok work, and their societal implications, from filter bubbles to manipulation.
+</details>
 
 ### ![alt text](image.png) Temporal Graph Learning Workshop @ KDD 2025
 * The third edition of our [Temporal Graph Learning workshop](https://sites.google.com/view/tgl-workshop-2025/) happened at KDD 2025 - yeah!
@@ -56,24 +86,33 @@ Besides research, I like music, food, and boats.
 * I'm honored to be recognized as one of the top reviewers at the [Learning on Graphs Conference 2024](https://logconference.org/).
 * Huge thanks to the organizers for putting together such an awesome event.
 
-###  ![alt text](image.png) Dynamic Representations of Global Crises: A Temporal Knowledge Graph For Conflicts, Trade and Value Networks @ LOG 2024 
-* Our Paper *Dynamic Representations of Global Crises: A Temporal Knowledge Graph For Conflicts, Trade and Value Networks* was accepted at the Learning on Graphs Conference 2024.
-* We create and analyze a Temporal Knowledge Graph (TKG) containing data on worldwide crises and trade over time, and apply TKG forecasting methods to it.
+###  ![alt text](image.png) Dynamic Representations of Global Crises @ LOG 2024 
+Can we forecast trade sanctions? Our LoG paper builds a temporal knowledge graph that links worldwide conflict events (ACLED) with trade policy interventions (Global Trade Alert), and applies TKG forecasting methods to it.
 * [Paper](https://openreview.net/forum?id=LipaBQwFeZ), [Code](https://github.com/JuliaGast/GTA_ACLED_TKG/tree/main), [Poster](https://openreview.net/attachment?id=LipaBQwFeZ&name=poster)
+<details markdown="1">
+<summary>more</summary>
+
+* Full title: *Dynamic Representations of Global Crises: A Temporal Knowledge Graph For Conflicts, Trade and Value Networks*, accepted at the Learning on Graphs Conference 2024.
+* The TKG has daily snapshots for 2023, with countries, economic sectors and conflict actors connected by 19 relation types.
+* We compare it to existing TKG datasets and analyze the model predictions across conflict and trade relations.
 * Team: Julia Gastinger, Timo Sztyler, Nils Steinert, Sabine Gruender-Fahrer, Michael Martin, Anett Schuelke, Heiner Stuckenschmidt
+</details>
+
 
 
 ### ![alt text](image.png) TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs @ NeurIPS 2024
 * Our Paper was accepted at the NeurIPS Datasets and Benchmarks Track.
-* [TGB 2.0](https://tgb.complexdatalab.com/) extends the Temporal Graph Benchmark (TGB) to multi-relational graphs, offering a collection of challenging and diverse datasets for Temporal Heterogeneous Graphs and Temporal Knowledge Graphs. 
+* [TGB 2.0](https://tgb.complexdatalab.com/) extends the Temporal Graph Benchmark (TGB) to multi-relational graphs, offering a collection of challenging and diverse datasets for temporal heterogeneous graphs and temporal knowledge graphs. 
+* [Paper](https://arxiv.org/abs/2406.09639), [Website](https://tgb.complexdatalab.com/), [Code](https://github.com/shenyangHuang/TGB)
+<details markdown="1">
+<summary>More Infos</summary>
+
+
 * Our goal is to provide a realistic, reproducible, and robust evaluation platform for machine learning on temporal multi-relational graphs.
-* Explore more: 
-    * Read our [paper](https://arxiv.org/abs/2406.09639) 
-    * Visit our [website](https://tgb.complexdatalab.com/)
-    * Check out our [GitHub](https://github.com/shenyangHuang/TGB)
+
 * TGB 2.0 team 🙌 : Julia Gastinger^, Shenyang Huang^,  Michael Galkin, Erfan Loghmani,
 Ali Parviz, Farimah Poursafaei, Jacob Danovitch, Emanuele Rossi, Yiannis Koutis, Heiner Stuckenschmidt, Reihaneh Rabbany, Guillaume Rabusseau  (^equal contribution) 
-                                
+</details>                            
 
 ###  ![alt text](image.png) History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting @ IJCAI 2024 
 * Our Paper *History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting* was accepted at IJCAI 2024.
@@ -83,7 +122,7 @@ Ali Parviz, Farimah Poursafaei, Jacob Danovitch, Emanuele Rossi, Yiannis Koutis,
 
 ### ![alt text](image-13.png) Internship in Montréal! 
 * In spring 2024, I did a 2-month research internship at [Mila - Quebec AI Institute](https://mila.quebec/en/) and University of Montréal, supervised by Prof. Guillaume Rabusseau.
-* During the internship I worked on benchmarking Temporal Knowledge Graph Forecasting Methods. 
+* During the internship I worked on benchmarking temporal knowledge graph forecasting Methods. 
 * Further, I focused on eating as many different Poutines as possible - yeahi.
 
 ###  ![alt text](image.png)  Temporal Graph Learning Workshop @ NeurIPS 2023 
@@ -101,14 +140,19 @@ was accepted at ECML PKDD 2023.
 
 ## Temporal Graph Learning Reading Group
 
-If you share an interest in Temporal Graph Learning, I invite you to check out and join our [Temporal Graph Reading Group](https://shenyanghuang.github.io/rg.html). We meet every Thursday at 11 am EDT (5 pm CST) on Zoom, where authors of insightful and recent Temporal Graph Learning Papers present their work. The reading group is organized by Shenyang (Andy) Huang, Farimah Poursafaei, and myself.
+If you share an interest in Temporal Graph Learning, I invite you to check out and join our [Temporal Graph Reading Group](https://shenyanghuang.github.io/rg.html). We meet every Wednesday at 9 am EDT (3 pm CST) on Zoom, where authors of insightful and recent Temporal Graph Learning Papers present their work. The reading group is organized by Shenyang (Andy) Huang, Emma Kondrup, Farimah Poursafaei, and myself.
 
 ![alt text](image-16.png)
 
 ## Publications
 
 ### Most Recent Publications:
-Julia Gastinger, Christian Meilicke, Heiner Stuckenschmidt [CountTRuCoLa: Rule Confidence Learning for Temporal Knowledge Graph Forecasting](https://arxiv.org/abs/2509.09474). arxiv preprint, 2025.
+Julia Gastinger, Thilo Dieing, Christian Meilicke, Heiner Stuckenschmidt
+[A Temporal Knowledge Graph for Music Festival Lineup Forecasting](https://aclanthology.org/2026.akbc-1.pdf#page=36). In Proceedings of the 11th Workshop on Automated Knowledge Base Construction (AKBC), 2026.
+
+Julia Gastinger, Christian Meilicke, Heiner Stuckenschmidt [CountTRuCoLa: Rule Learning for Interpretable Temporal Knowledge Graph Forecasting](https://arxiv.org/abs/2509.09474). In International Semantic Web Conference (ISWC), 2026
+
+Konrad Özdemir, Julia Gastinger, Lukas Kirchdorfer, Heiner Stuckenschmidt [Temporal Knowledge Graph Forecasting under Distribution Shifts: A Synthetic Evaluation](https://arxiv.org/abs/2607.09232). In 23rd International Workshop on Mining and Learning with Graphs (ECML PKDD), 2026.
 
 Julia Gastinger, Timo Sztyler, Nils Steinert, Sabine Gruender-Fahrer, Michael Martin, Anett Schuelke, Heiner Stuckenschmidt [Dynamic Representations of Global Crises: A Temporal Knowledge Graph For Conflicts, Trade and Value Networks](https://openreview.net/forum?id=LipaBQwFeZ). In Learning on Graphs Conference (LoG), Virtual Event, 2024.
 
